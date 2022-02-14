@@ -1,3 +1,4 @@
 [submodule "string-calculator"]
 	path = string-calculator
 	url = git@github.com:swakswak/string-calculator.git
+	branch = main
