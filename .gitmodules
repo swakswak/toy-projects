@@ -2,3 +2,6 @@
 	path = string-calculator
 	url = git@github.com:swakswak/string-calculator.git
 	branch = main
+[submodule "dependency-injection-toy"]
+	path = dependency-injection-toy
+	url = git@github.com:swakswak/dependency-injection-toy.git
